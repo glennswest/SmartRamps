@@ -1178,8 +1178,8 @@ Select the language to use.
 #define UI_LANGUAGE 0
 
 // This is line 2 of the status display at startup. Change to your like.
-#define UI_PRINTER_NAME "KosselG1"
-#define UI_PRINTER_COMPANY "NeuralCloudComputing"
+#define UI_PRINTER_NAME "Ordbot"
+#define UI_PRINTER_COMPANY "RepRapDiscount"
 
 
 /** Animate switches between menus etc. */
